@@ -1,5 +1,17 @@
 # windows-config-script
 
+## 重装前流程
+
+1. 配置好 `path.json`。对于每个字段，`path` 是需要备份的路径，`bak` 是备份到 `./bak` 的路径。照葫芦画瓢即可。
+2. 执行 `before/backup.ps1`
+3. 下载好需要用到的所有安装包，创建并扔到 setup 文件夹。
+4. `custom-setups` 指向我的私人 repo，所以大家自行更换即可。
+
+## 重装后流程
+
+1. 执行 `after/install.bat`
+2. 执行 `after/restore.ps1`
+
 ## 软件列表
 
 * 需要下载
