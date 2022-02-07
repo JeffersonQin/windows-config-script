@@ -1,0 +1,3 @@
+[submodule "custom-setups"]
+	path = custom-setups
+	url = https://github.com/JeffersonQin/my-private-setups
