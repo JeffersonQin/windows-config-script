@@ -70,7 +70,7 @@
   * Nox: https://www.yeshen.com/
   * Zoom: https://zoom.us/download
   * Mumu: https://mumu.163.com/
-  * Intel Driver & Support Assistant: https://downloadcenter.intel.com/download/28425/Intel-Driver-Support-Assistant
+  * Intel AX200 网卡驱动: https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html
   * Adobe 全家桶: https://weibo.com/vposy
   * Fiddler 4: https://www.telerik.com/download/fiddler
   * Firefox 国际版: https://www.mozilla.org/en-US/firefox/new/
