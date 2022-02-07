@@ -1,0 +1,34 @@
+{
+	"Wechat": {
+		"path": "%HOMEDRIVE%%HOMEPATH%\\Documents\\WeChat Files",
+		"bak": ".\\Wechat Files"
+	},
+	"QQ": {
+		"path": "%HOMEDRIVE%%HOMEPATH%\\Documents\\Tencent Files",
+		"bak": ".\\Tencent Files"
+	},
+	"osu!": {
+		"path": "%APPDATA%\\osu!",
+		"bak": ".\\osu!"
+	},
+	"弹弹 Play": {
+		"path": "%APPDATA%\\弹弹play",
+		"bak": ".\\弹弹play"
+	},
+	"Code": {
+		"path": "%APPDATA%\\Code\\User\\settings.json",
+		"bak": ".\\Code\\settings.json"
+	},
+	"calibre": {
+		"path": "%APPDATA%\\calibre",
+		"bak": ".\\calibre"
+	},
+	"qbittorrent-local": {
+		"path": "%LOCALAPPDATA%\\qBittorrent",
+		"bak": ".\\qBittorrent\\local"
+	},
+	"qbittorrent-data": {
+		"path": "%APPDATA%\\qBittorrent",
+		"bak": ".\\qBittorrent\\data"
+	}
+}
